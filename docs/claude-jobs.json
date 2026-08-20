@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-19T03:45:26.646929+00:00",
-  "totalJobs": 98,
+  "lastUpdated": "2026-08-20T03:45:53.110430+00:00",
+  "totalJobs": 97,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -21,27 +21,6 @@
       "postedAt": "2026-08-18T21:02:33-04:00",
       "tags": [
         "TypeScript",
-        "Python",
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5390877008",
-      "company": "Anthropic",
-      "position": "Applied AI Architect, Public Sector (National Security)",
-      "location": "Washington, DC",
-      "remote": false,
-      "salary": "",
-      "description": "As an Applied AI team member at Anthropic, you will be a Pre-Sales architect focused on becoming a trusted technical advisor helping national security and defense agencies understand the value of Claude and paint the vision on how they can successfully integrate and deploy Claude into their...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390877008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390877008",
-      "postedAt": "2026-08-18T13:00:45-04:00",
-      "tags": [
         "Python",
         "Rust",
         "AWS",
